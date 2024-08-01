@@ -1,2 +1,2 @@
 # python-for-everybody
-Python for Everybody da freeCodeCamp
+Python for Everybody from freeCodeCamp
